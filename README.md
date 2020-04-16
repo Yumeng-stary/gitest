@@ -34,6 +34,5 @@
 |----|----------|------|
 |UD2B|1107211077|郭于萌|
 
-[image] (https://github.com/Yumeng-stary/gitest/blob/master/123.jpg)
 
 [文藻首頁] (http://www.wzu.edu.tw)
